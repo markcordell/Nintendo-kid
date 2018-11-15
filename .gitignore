@@ -105,3 +105,7 @@ venv.bak/
 
 #ignore games
 games/
+
+#ignore gym and retro
+gym
+retro
